@@ -1,6 +1,5 @@
 ChocolateCakeWithoutEgg;
 
-recipe(() => {
     dryIngredients = 
 
     1 large mixing bowl
@@ -17,11 +16,3 @@ recipe(() => {
     1 teaspoon of vanilla extract (optional)
     1 tablespoon of lemon juice or vinegar
     mix gently with spatula or whisk. There should not be any bubbles in the batter
-
-    baking = 
-    pour the batter into a pan
-    bake it in a preheated oven for 25-28 minutes
-    check after 25 minutes
-    allow it to cool down for 8-10 minutes
-    decorate with different stuff andit is ready! 
-})
